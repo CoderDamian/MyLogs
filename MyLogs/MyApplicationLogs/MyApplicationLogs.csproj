@@ -6,9 +6,12 @@
     <Nullable>enable</Nullable>
 
     <PackageId>MyLogs</PackageId>
-    <Version>1.0.0</Version>
+    <Version>1.0.1</Version>
     <Authors>coderdamian</Authors>
     <Company>your_company</Company>
+    <Description>Application logs available for detecting and solving a wide range of production issues and outages</Description>
+    <RepositoryUrl>https://github.com/CoderDamian/MyLogs</RepositoryUrl>
+    
   </PropertyGroup>
 
   <ItemGroup>
